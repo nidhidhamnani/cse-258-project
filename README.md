@@ -1,5 +1,3 @@
 # cse-258-project
 
-
-
-word vectors -- https://nlp.stanford.edu/data/glove.6B.zip
+Please refer to `project_report.pdf` for details.
