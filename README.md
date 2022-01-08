@@ -1,3 +1,3 @@
-# Multi-Class Fit Prediction for RentTheRunway Dataset
+# Multi-Class Fit Prediction
 
 Please refer to `project_report.pdf` for details.
